@@ -1,24 +1,3 @@
-# README
+This project's goal was to create an Instagram-like application using Ruby on Rails that allowed you to upload photos and scroll through them on the main page. This project was created with the help of a youtube tutorial: https://www.youtube.com/watch?v=MpFO4Zr0EPE.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I do not have 
